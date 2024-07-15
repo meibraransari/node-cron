@@ -15,11 +15,11 @@ npm install express node-cron morgan
 node app.js
 ```
 
-## Test it on browser
-URL: http://<IP>:4000
-
 ## Monitor log on terminal
 ```
 Server is running on http://localhost:4000
 Cron job running at 2024-07-15T05:59:00.627Z
 ```
+
+## Test it on browser
+URL: http://<IP>:4000
