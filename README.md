@@ -5,11 +5,6 @@
 npm install express node-cron morgan
 ```
 
-## Create server.js 
-```
-nano app.js
-```
-
 ## Rune websocket
 ```
 node app.js
