@@ -6,16 +6,19 @@ npm install express node-cron morgan
 ```
 
 ## Create server.js 
-nano app.js 
+```
+nano app.js
+```
 
 ## Rune websocket
+```
 node app.js
+```
 
-## Test it on chrome
+## Test it on browser
 URL: http://<IP>:4000
-click on open
 
-## Wait for cron as well.
+## Monitor log on terminal
 ```
 Cron job running at 2024-07-15T05:42:00.180Z
 ```
