@@ -20,5 +20,6 @@ URL: http://<IP>:4000
 
 ## Monitor log on terminal
 ```
-Cron job running at 2024-07-15T05:42:00.180Z
+Server is running on http://localhost:4000
+Cron job running at 2024-07-15T05:59:00.627Z
 ```
