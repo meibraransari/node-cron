@@ -1,7 +1,9 @@
 # node-cron
 
 ## Install required package
+```
 npm install express node-cron morgan
+```
 
 ## Create server.js 
 nano app.js 
