@@ -1,4 +1,4 @@
-# node-cron
+# Node-Cron
 
 ## Install required package
 ```
