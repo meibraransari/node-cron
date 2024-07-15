@@ -1,5 +1,10 @@
 # Node-Cron
 
+##  Setup
+```
+git clone https://github.com/meibraransari/node-cron.git && node-cron
+```
+
 ## Install required package
 ```
 npm install express node-cron morgan
