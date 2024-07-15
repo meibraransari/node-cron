@@ -2,7 +2,7 @@
 
 ##  Setup
 ```
-git clone https://github.com/meibraransari/node-cron.git && node-cron
+git clone https://github.com/meibraransari/node-cron.git && cd node-cron
 ```
 
 ## Install required package
