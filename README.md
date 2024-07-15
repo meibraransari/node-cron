@@ -10,7 +10,7 @@ git clone https://github.com/meibraransari/node-cron.git && cd node-cron
 npm install express node-cron morgan
 ```
 
-## Rune websocket
+## Run App
 ```
 node app.js
 ```
